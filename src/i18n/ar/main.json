@@ -1,0 +1,11 @@
+{
+  "name_required" : "الإسم مطلوب",
+  "name_error" : "الحد الأقصى لعدد حروف الإسم {count} حرف",
+  "email_required": "البريد الإلكتروني مطلوب",
+  "email_badly_format": "البريد الإلكتروني غير صحيح",
+  "email_exist_error" : "هذا البريد الإلكتروني موجود بالفعل",
+  "password_length_error": "يجب أن تكون كلمة المرور بين {minLetters} و {maxLetters} حرف",
+  "whitelist_validation_error": "يجب ألا يكون ({name}) موجود",
+  "invalid_credentials_error" : "بيانات الاعتماد غير صالحة يرجى التأكد من معلوماتك والمحاولة مرة أخرى"
+
+}

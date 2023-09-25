@@ -1,0 +1,10 @@
+{
+  "name_required" : "Name is Required",
+  "name_error" : "Maximum Name Length is {count} characters",
+  "email_required" : "Email is Required",
+  "email_badly_format" : "Email is badly format",
+  "email_exist_error" : "This Email is already Exist",
+  "password_length_error" : "Password must be between {minLetters} and {maxLetters} characters",
+  "whitelist_validation_error": "property ({name}) should not exist",
+  "invalid_credentials_error" : "invalid credentials please make sure your information and try again"
+}
